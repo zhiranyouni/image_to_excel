@@ -9,3 +9,8 @@
 
 主要使用的库是PIL， openpyxl
 
+如图：
+
+![avatar](http://baidu.com/pic/doge.png)
+-->
+![avatar](http://baidu.com/pic/doge.png)
